@@ -1,1 +1,1 @@
-# algoritmoHngaro
+# algoritmoHúngaro
