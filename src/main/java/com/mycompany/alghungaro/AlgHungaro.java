@@ -202,6 +202,7 @@ public class AlgHungaro {
             }
         }
         printaMatrizString(matrizResultado);
+        System.out.println("");
         return matrizNum;
     }
 
@@ -221,10 +222,10 @@ public class AlgHungaro {
         for (int i = 0; i < matrizNum.length; i++) {
             for (int j = 0; j < matrizNum[0].length; j++) {
                 if ("X".equals(matrizResultado[i][j])) {
-                    matrizNum[i][j] = matrizNum[i][j] - menorDescoberto;
+                    matrizNum[i][j] = arredondarDouble(matrizNum[i][j] - menorDescoberto);
                 }
                 if ("+".equals(matrizResultado[i][j])) {
-                    matrizNum[i][j] = matrizNum[i][j] + menorDescoberto;
+                    matrizNum[i][j] = arredondarDouble(matrizNum[i][j] + menorDescoberto);
                 }
             }
         }
