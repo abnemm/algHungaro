@@ -36,8 +36,23 @@ A empresa de madeira Principau foi contratada para realizar um serviço que envo
 | Funcionário 2 |  R$ 8,00 |     R$ 5,60 |  R$ 4,00 |    R$ 6,00 |  R$ 4,00 |
 | Funcionário 3 |  R$ 4,00 |     R$ 2,20 |  R$ 5,60 |    R$ 5,20 |  R$ 6,00 |
 | Funcionário 4 |  R$ 7,00 |     R$ 3,00 |  R$ 8,00 |    R$ 4,70 |  R$ 5,20 |
- 
 
+#####Partindo para a resolução:
+
+
+Seguindo o fluxo do algoritmo:
+
+![image](https://github.com/abnemm/algHungaro/assets/109525805/5e7dfe50-8407-4c5e-87c6-90976e5701f4)
+ 
+![image](https://github.com/abnemm/algHungaro/assets/109525805/c52df7d1-f69f-42ec-abfb-ed06e1c307b3)
+
+![image](https://github.com/abnemm/algHungaro/assets/109525805/a6607657-12ac-4211-9007-00fa53f8f169)
+
+![image](https://github.com/abnemm/algHungaro/assets/109525805/dbc07ae3-7cf6-4dba-81df-1fa0e90d4bad)
+
+![image](https://github.com/abnemm/algHungaro/assets/109525805/ffd2fcba-ef18-482c-97d9-4458edf1f20b)
+
+Dessa forma o algoritmo decide a melhor escolha independente do tamanho da matriz, optando sempre pela solução ótima.
 
 
 Referencias:
